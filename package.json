@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@slack/client": "^5.0.1",
+    "dotenv": "^8.0.0"
+  },
+  "devDependencies": {
+    "semistandard": "^13.0.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
