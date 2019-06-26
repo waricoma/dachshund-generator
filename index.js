@@ -15,7 +15,6 @@ const webClient = new WebClient(process.env.TOKEN);
 
 // Slack Current Channel Monitoring.
 rtmClient.on('message', event => {
-  console.log(event);
   // is there text?
   if (!('text' in event)) {
     return;
