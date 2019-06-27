@@ -21,7 +21,7 @@ rtmClient.on('message', event => {
   }
 
   // Validation
-  if (!(event.text.match(/^:dachshund:( |)([0-9]|[０-９])+$/))) {
+  if (!(event.text.match(/^:dachshund:( |)([0-9]|[０-９]){1,4}$/))) {
     return;
   }
 
