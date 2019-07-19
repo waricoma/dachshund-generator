@@ -1,6 +1,6 @@
 # dachshund-generator
 
-[![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg?style=flat-square)](https://github.com/Flet/semistandard)
+[![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg?style=flat-square)](https://github.com/Flet/semistandard) [![Greenkeeper badge](https://badges.greenkeeper.io/waricoma/dachshund-generator.svg)](https://greenkeeper.io/)
 
 on Slack bot.
 
