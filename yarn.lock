@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@slack/client@^5.0.1":
+"@slack/client@5.0.1":
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/@slack/client/-/client-5.0.1.tgz#57a5d4d977e3763f44a4dca321a7dbb73c6473af"
   integrity sha512-rU3x3pVhKq+9gt2sDdQI6toYc9BmLCDU9UYpnGhlHWV+ebHXepftMLOuZqjt2inK9XLzz5XqJYKdsyfbCuwiJA==
@@ -381,7 +381,7 @@ doctrine@^2.1.0:
   dependencies:
     esutils "^2.0.2"
 
-dotenv@^8.0.0:
+dotenv@8.0.0:
   version "8.0.0"
   resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.0.0.tgz#ed310c165b4e8a97bb745b0a9d99c31bda566440"
   integrity sha512-30xVGqjLjiUOArT4+M5q9sYdvuR4riM6yK9wMcas9Vbp6zZa+ocC9dp6QoftuhTPhFAiLK/0C5Ni2nou/Bk8lg==
@@ -1337,7 +1337,7 @@ rxjs@^5.5.2:
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
-semistandard@^13.0.1:
+semistandard@13.0.1:
   version "13.0.1"
   resolved "https://registry.yarnpkg.com/semistandard/-/semistandard-13.0.1.tgz#73389486821e89ce26ec8d5350b9f15ab467ab26"
   integrity sha512-2GkuX4BsoMEYoufJYRz8/ERbYDfgOO3yP29IBaoXtxl202azlkV1MsFyoSFiM6GBUfL7MSUxSy38KfM9oDAE2g==
