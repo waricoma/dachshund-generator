@@ -4,7 +4,7 @@
     "dotenv": "8.0.0"
   },
   "devDependencies": {
-    "semistandard": "14.2.3"
+    "semistandard": "17.0.0"
   },
   "scripts": {
     "start": "node index.js"
